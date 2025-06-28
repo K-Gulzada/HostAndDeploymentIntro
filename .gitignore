@@ -6,3 +6,5 @@
 /.vs/HostAndDeploymentIntro
 /WebApplication1/obj
 /.vs/ProjectEvaluation
+/WebApplication1/bin/Release/net8.0
+/WebApplication1/.config
